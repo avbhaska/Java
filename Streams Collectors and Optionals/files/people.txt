@@ -1,0 +1,12 @@
+Avinash
+33
+Bangalore
+Amit
+36
+Newyork
+Abhay
+45
+Pune
+Gopi
+50
+Hyderabad
